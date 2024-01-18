@@ -1,0 +1,13 @@
+.cardList {
+    width: 225px;
+    height: 125px;
+    padding: 5px;
+    margin: 2px;
+}
+
+.delBtn {
+    position: relative;
+    bottom: 40px;
+    margin: 2px;
+    left: 180px;
+}

@@ -1,0 +1,30 @@
+.cardUser {
+    width: 200px;
+    height: 100px;
+    margin: 10px;
+    padding: 5px;
+    border-radius: 5px;
+    border: 1px solid black;
+    background: rgb(36, 166, 231);
+}
+#status {
+    position: relative;
+    top:20px;
+    width: 100px;
+}
+.infoUser {
+    font-size: 13px;
+    margin: 5px;
+}
+
+
+
+
+.online {
+    color: rgb(66, 255, 29);
+}
+
+.offline {
+    color: red;
+}
+
